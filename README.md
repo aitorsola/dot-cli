@@ -18,7 +18,7 @@ Antes de usar Dot CLI, necesitas configurar tu API Key:
 dot setup <tu-api-key>
 ```
 
-Puedes obtener tu API Key en [hidot.social/settings/api](https://hidot.social/settings/api).
+Puedes obtener tu API Key en [hidot.social/settings/api](https://www.hidot.social/user/me/edit).
 
 ## Comandos
 
