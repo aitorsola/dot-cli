@@ -1,6 +1,6 @@
 {
   "name": "@aitorsola/dot-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "type": "module",
   "bin": {
     "dot": "./index.js"

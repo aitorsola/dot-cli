@@ -23,7 +23,7 @@ dayjs.extend(relativeTime);
 program
   .name('dot')
   .description('Official Dot CLI to post and discover what\'s around you')
-  .version('2026.01.30');
+  .version('2026.02.02');
 
 // ═══════════════════════════════════════════════════════════════
 // Commands
